@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-northern-metafictional-gender-dynamics",
+  "title": "The Violence Done to Silence",
+  "tagline": "In a scriptorium of sacred lies, a green-clad apprentice arrives to shatter the silence, forcing a master illuminator to confront the heresies buried in his own craft.",
+  "target_words": 78077,
+  "actual_words": 78077,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Artistic Creation and Heresy",
+    "The Performance of Gender",
+    "The Power of Narrative and Silence",
+    "Tradition Versus Disruption"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Blot of Violent Green",
+      "words": 6506
+    },
+    {
+      "ch": 2,
+      "title": "The Soulless Circle",
+      "words": 6506
+    },
+    {
+      "ch": 3,
+      "title": "The Grey Lady's Book",
+      "words": 6506
+    },
+    {
+      "ch": 4,
+      "title": "A Mould of Unspoken Threat",
+      "words": 6506
+    },
+    {
+      "ch": 5,
+      "title": "The Violence Done to Silence",
+      "words": 6506
+    },
+    {
+      "ch": 6,
+      "title": "The Conspiracy of Stone",
+      "words": 6506
+    },
+    {
+      "ch": 7,
+      "title": "The Weight of a Scream",
+      "words": 6506
+    },
+    {
+      "ch": 8,
+      "title": "The Tower's Tectonic Chorus",
+      "words": 6506
+    },
+    {
+      "ch": 9,
+      "title": "The Bell, The Book, The Breath",
+      "words": 6506
+    },
+    {
+      "ch": 10,
+      "title": "A Signature of Smoke",
+      "words": 6506
+    },
+    {
+      "ch": 11,
+      "title": "The Memory in the Mud",
+      "words": 6506
+    },
+    {
+      "ch": 12,
+      "title": "The Garden and the Terrier",
+      "words": 6506
+    }
+  ]
+}
